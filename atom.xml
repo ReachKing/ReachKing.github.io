@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ReachKing.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-06-18T09:05:35.295Z</updated>
+    <updated>2019-06-18T09:11:18.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ReachKing.github.io/"/>
     <link rel="self" href="https://ReachKing.github.io//atom.xml"/>
@@ -11,12 +11,16 @@
     <icon>https://ReachKing.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Title_S]]></title>
+        <title type="html"><![CDATA[ Long may the sunshine]]></title>
         <id>https://ReachKing.github.io//post/title_s</id>
         <link href="https://ReachKing.github.io//post/title_s">
         </link>
         <updated>2019-06-18T09:04:43.000Z</updated>
-        <content type="html"><![CDATA[<p>content..</p>
+        <summary type="html"><![CDATA[<p>这里是概要信息，概要信息</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这里是概要信息，概要信息</p>
+<!-- more -->
+<p>嗯，下面是正文了。</p>
 ]]></content>
     </entry>
     <entry>
