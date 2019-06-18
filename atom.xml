@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ReachKing.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-06-18T09:22:04.124Z</updated>
+    <updated>2019-06-18T11:34:58.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ReachKing.github.io/"/>
     <link rel="self" href="https://ReachKing.github.io//atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[ Long may the sun shine]]></title>
-        <id>https://ReachKing.github.io//post/title_s</id>
-        <link href="https://ReachKing.github.io//post/title_s">
+        <id>https://ReachKing.github.io//post/ Long may the sun shine</id>
+        <link href="https://ReachKing.github.io//post/ Long may the sun shine">
         </link>
         <updated>2019-06-18T09:04:43.000Z</updated>
         <summary type="html"><![CDATA[<p>这里是概要信息，概要信息</p>
