@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/Users/reach/Documents/Gridea/output</id>
+    <id>https://ReachKing.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-06-18T02:43:26.112Z</updated>
+    <updated>2019-06-18T09:05:35.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/Users/reach/Documents/Gridea/output"/>
-    <link rel="self" href="/Users/reach/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://ReachKing.github.io/"/>
+    <link rel="self" href="https://ReachKing.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>/Users/reach/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>/Users/reach/Documents/Gridea/output/favicon.ico</icon>
+    <logo>https://ReachKing.github.io//images/avatar.png</logo>
+    <icon>https://ReachKing.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[Title_S]]></title>
+        <id>https://ReachKing.github.io//post/title_s</id>
+        <link href="https://ReachKing.github.io//post/title_s">
+        </link>
+        <updated>2019-06-18T09:04:43.000Z</updated>
+        <content type="html"><![CDATA[<p>content..</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>/Users/reach/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="/Users/reach/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>https://ReachKing.github.io//post/hello-gridea</id>
+        <link href="https://ReachKing.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
